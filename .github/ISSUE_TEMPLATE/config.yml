@@ -1,10 +1,9 @@
 name: 🧩 Thrylo Labs Issue Templates
-description: Choose the right template to report bugs or suggest new features.
-title: "[Issue]: "
-labels: []
+description: Choose the appropriate template to report a bug, suggest a feature, or raise a custom issue.
+blank_issues_enabled: false
 
-# These links will appear under "Contact Links" in the issue chooser
 contact_links:
   - name: 📣 Community Discussions
     url: https://github.com/thrylolabs/.github/discussions
-    about: Use our discussion board for general questions or brainstorming ideas.
+    about: For general questions, brainstorming, or open-ended feedback.
+
